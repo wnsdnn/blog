@@ -1,0 +1,25 @@
+{
+  "name": "wnsdnn.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:serve": "vitepress serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnsdnn/wnsdnn.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wnsdnn/wnsdnn.github.io/issues"
+  },
+  "homepage": "https://github.com/wnsdnn/wnsdnn.github.io#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.1"
+  }
+}
