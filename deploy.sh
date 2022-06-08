@@ -20,7 +20,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:wnsdnn/wnsdnn.github.io.git main
 
 # if you are deploying to https://wnsdnn.github.io/<REPO>
-git push -f https://github.com/wnsdnn/wnsdnn.github.io.git gh-pages
+git push -f https://github.com/wnsdnn/wnsdnn.github.io.git main
 
 
 cd -
